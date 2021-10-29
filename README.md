@@ -1,6 +1,6 @@
-# DSCleaner
+# RetailCleaner
 
-DSCleaner, a Windows file cleaner where you can boost your computer/laptop performance easily with 2 clicks. 
+RetailCleaner, a Windows file cleaner where you can boost your computer/laptop performance easily with 2 clicks. 
 
 # Configuration
 
